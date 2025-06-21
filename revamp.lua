@@ -90,10 +90,11 @@ function lib.report(user, name, rs)
 			lib.notify()
 		end
 		lib.cooldown = true
-		task.wait(5)
-		lib.username = 'unknown'
-		lib.bw = 'unknown'
-		lib.cooldown = false
+		task.delay(5, function()
+			lib.username = 'unknown'
+			lib.bw = 'unknown'
+			lib.cooldown = false
+		end)
 	end
 end
 
