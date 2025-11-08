@@ -1,3 +1,5 @@
-</w> doesnt own this <w>
-</w> only personal use <w>
-</w> original by outliers <w>
+doesnt own this
+
+only personal use
+
+original by outliers
