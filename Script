@@ -15,7 +15,7 @@ end
 repeat task.wait() until game:IsLoaded()
 
 local Default = {
-	Advertise = true;
+	Advertise = false;
 	Safe = false;
 	Webhook = ""; -- Webhook URL
 	
