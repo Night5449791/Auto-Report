@@ -1,2 +1,3 @@
-doesnt own ts
-go use outliershub ig
+</w> doesnt own this <w>
+</w> only personal use <w>
+</w> original by outliers <w>
