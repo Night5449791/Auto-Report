@@ -26,6 +26,7 @@ local words = {
 	['bible'] = 'Bullying',
 	['nigga'] = 'Bullying',
 	['cheat'] = 'Scamming',
+	['ching chong'] = 'Swearing',
 	['report'] = 'Bullying',
 	['niga'] = 'Bullying',
 	['bitch'] = 'Bullying',
